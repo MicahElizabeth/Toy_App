@@ -1,5 +1,11 @@
 == README
+This is a basic app that creates users and microposts as part of railstutorial
 
+production url: https://thawing-springs-2007.herokuapp.com/
+        ->/users for users
+        ->/microposts for microposts
+        
+        
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
